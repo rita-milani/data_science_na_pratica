@@ -18,7 +18,7 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## Projects:
 
 * **Airbnb Analysis for Singapore** https://bit.ly/38w0GFy
 * **Cell Theft in Rio de Janeiro** https://bit.ly/39BVnVG
