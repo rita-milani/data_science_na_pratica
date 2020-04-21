@@ -1,4 +1,4 @@
-city,area,rooms,bathroom,parking,floor,animal,furniture,hoa,rental,property_tax,fire_insurance,total_rent
+﻿city,area,rooms,bathroom,parking,floor,animal,furniture,hoa,rental,property_tax,fire_insurance,total_rent
 Sao Paulo,70,2,1,1,7,1,1,2065,3300,211,42,5618
 Sao Paulo,320,4,4,0,20,1,0,1200,4960,1750,63,7973
 Porto Alegre,80,1,1,1,6,1,0,1000,2800,0,41,3841
