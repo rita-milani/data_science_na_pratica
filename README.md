@@ -23,6 +23,8 @@ My credentials include a Master in Agricultural Economics at Universität Hohenh
 * **Airbnb Analysis for Singapore** https://bit.ly/38w0GFy
 * **Cell Theft in Rio de Janeiro** https://bit.ly/39BVnVG
 * **Violence in Rio de Janeiro** https://bit.ly/2WQdl2W
+* **Daily Covid-19** https://bit.ly/341sRdO
+* **Housing Value Estimation with Simple Linear Regression** https://bit.ly/3cDEWsV
 
 ---
 
